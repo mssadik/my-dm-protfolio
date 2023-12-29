@@ -68,7 +68,7 @@ const Navbar = () => {
           </a>
           <a
             href="#about"
-            className={`block mt-4 lg:inline-block lg:mt-0 text-white hover:text-emerald-500 mr-4 ${location ? 'hidden' : ''}`}
+            className={`block mt-4 lg:inline-block lg:mt-0 text-white hover:text-emerald-500 mr-4 ${location ? 'hidden lg:hidden' : ''}`}
           >
             About
           </a>
@@ -81,7 +81,7 @@ const Navbar = () => {
           </a>
           <a
             href="#contact"
-            className={`block mt-4 ml-4 lg:inline-block lg:mt-0 text-white hover:text-emerald-500 mr-4 ${location ? 'hidden' : ''}`}
+            className={`block mt-4 md:ml-4 lg:inline-block lg:mt-0 text-white hover:text-emerald-500 mr-4 ${location ? 'hidden lg:hidden' : ''}`}
           >
             Contact
           </a>

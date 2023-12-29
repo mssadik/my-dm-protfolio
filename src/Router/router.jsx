@@ -4,6 +4,8 @@ import {
 import Main from "../Layout/Main";
 import Home from "../components/Home/Home";
 import FacebookPreWork from "../components/PreviousWork/FacebookPreWork";
+import InstaPreWork from "../components/PreviousWork/InstaPreWork";
+import YoutubePreWork from "../components/PreviousWork/YoutubePreWork";
 
  export const router = createBrowserRouter([
     {
@@ -17,7 +19,15 @@ import FacebookPreWork from "../components/PreviousWork/FacebookPreWork";
         {
           path: "/facebookPreWork",
           element: <FacebookPreWork></FacebookPreWork>
-        }
+        },
+        {
+          path: "/instaPreWork",
+          element: <InstaPreWork></InstaPreWork>
+        },
+        {
+          path: "/youtubePreWork",
+          element: <YoutubePreWork></YoutubePreWork>
+        },
       ]
     },
   ]);

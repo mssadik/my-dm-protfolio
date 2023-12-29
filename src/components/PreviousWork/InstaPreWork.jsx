@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import './FacebookPreWork.css'; // Import your CSS file for component-specific styles
 
-const FacebookPreWork = () => {
+const InstaPreWork = () => {
   const [data, setData] = useState([]);
   const [selectedImage, setSelectedImage] = useState(null);
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -34,7 +34,7 @@ const FacebookPreWork = () => {
     setIsModalOpen(false);
   };
 
-  const facebookMarketingData = data.filter((item) => item.name === 'Facebook Marketing');
+  const facebookMarketingData = data.filter((item) => item.name === 'Instagram Marketing');
 
   return (
     <section className='bg-black'>
@@ -78,7 +78,7 @@ const FacebookPreWork = () => {
   );
 };
 
-export default FacebookPreWork;
+export default InstaPreWork;
 
 
 

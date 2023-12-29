@@ -2,13 +2,37 @@
     {
       "id": 1,
       "name": "Facebook Marketing",
-      "img": "https://i.ibb.co/bmJxvXP/download-2-removebg-preview.png",
+      "img": "https://i.ibb.co/VWQ1jGC/Sosial-media-manager.jpg",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor ut arcu pretium viverra. Integer nec metus eu mauris bibendum vehicula."
+    },
+    {
+      "id": 1,
+      "name": "Facebook Marketing",
+      "img": "https://i.ibb.co/VWQ1jGC/Sosial-media-manager.jpg",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor ut arcu pretium viverra. Integer nec metus eu mauris bibendum vehicula."
+    },
+    {
+      "id": 1,
+      "name": "Facebook Marketing",
+      "img": "https://i.ibb.co/VWQ1jGC/Sosial-media-manager.jpg",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor ut arcu pretium viverra. Integer nec metus eu mauris bibendum vehicula."
+    },
+    {
+      "id": 1,
+      "name": "Facebook Marketing",
+      "img": "https://i.ibb.co/VWQ1jGC/Sosial-media-manager.jpg",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor ut arcu pretium viverra. Integer nec metus eu mauris bibendum vehicula."
+    },
+    {
+      "id": 1,
+      "name": "Facebook Marketing",
+      "img": "https://i.ibb.co/VWQ1jGC/Sosial-media-manager.jpg",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor ut arcu pretium viverra. Integer nec metus eu mauris bibendum vehicula."
     },
     {
       "id": 2,
       "name": "Instagram Marketing",
-      "img": "https://i.ibb.co/r4RfWGV/download-4-removebg-preview.png",
+      "img": "https://i.ibb.co/VWQ1jGC/Sosial-media-manager.jpg",
       "text": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis venenatis, dolor sit amet cursus vulputate, libero justo volutpat arcu, vitae fermentum odio justo ac ipsum."
     },
     {
@@ -20,13 +44,13 @@
     {
       "id": 4,
       "name": "Facebook Marketing",
-      "img": "https://i.ibb.co/bmJxvXP/download-2-removebg-preview.png",
+      "img": "https://i.ibb.co/VWQ1jGC/Sosial-media-manager.jpg",
       "text": "Aenean in massa sit amet justo mollis vestibulum. Proin cursus urna vitae libero tristique, id fermentum elit scelerisque. Nam auctor eros vel urna hendrerit, et bibendum elit dapibus."
     },
     {
       "id": 5,
       "name": "Instagram Marketing",
-      "img": "https://example.com/instagram-marketing-image.jpg",
+      "img": "https://i.ibb.co/VWQ1jGC/Sosial-media-manager.jpg",
       "text": "Suspendisse potenti. Vivamus congue tellus at erat varius, vel fermentum lacus congue. Ut hendrerit erat ac enim rhoncus ultrices."
     },
     {
@@ -38,7 +62,7 @@
     {
       "id": 7,
       "name": "Facebook Marketing",
-      "img": "https://i.ibb.co/bmJxvXP/download-2-removebg-preview.png",
+      "img": "https://i.ibb.co/VWQ1jGC/Sosial-media-manager.jpg",
       "text": "Duis auctor nibh nec magna finibus, vel tristique dolor consequat. Integer sit amet consectetur elit. In ac urna vel odio accumsan feugiat eu ut lacus."
     },
     {
@@ -56,7 +80,7 @@
     {
       "id": 10,
       "name": "Facebook Marketing",
-      "img": "https://i.ibb.co/bmJxvXP/download-2-removebg-preview.png",
+      "img": "https://i.ibb.co/VWQ1jGC/Sosial-media-manager.jpg",
       "text": "Integer nec metus eu mauris bibendum vehicula. Sed quis tortor ut arcu pretium viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     }
   ]

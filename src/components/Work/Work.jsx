@@ -22,7 +22,7 @@ const Work = () => {
                 <div className="w-3/4">
                     <h3 className="text-emerald-500 text-2xl mb-2 font-extrabold font-serif">Instagram Marketing</h3>
                     <p className="text-xs md:text-base text-gray-300">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium rem dolores tempore reprehenderit quas cum ea omnis quis ab assumenda, molestias consequatur enim dolor corporis. Quaerat beatae id ratione dolore officiis tempore soluta dicta distinctio expedita autem, earum corporis praesentium eum rerum debitis impedit nisi unde hic amet animi fugiat dolorem magnam. Illum laudantium deleniti ex similique corporis tempore enim? Repudiandae natus, ea mollitia reprehenderit alias vel provident aperiam laborum officia eaque doloribus aspernatur quo distinctio laudantium. Voluptate, voluptatum corrupti.</p>
-                    <Link to="/facebookPreWork">
+                    <Link to="/instaPreWork">
                         <button className="bg-emerald-400 mb-4 font-extrabold text-white py-2 px-6 rounded-full hover:bg-amber-600 focus:outline-none mt-4">
                             Previous work
                         </button>
@@ -39,7 +39,7 @@ const Work = () => {
                 <div className="w-3/4">
                     <h3 className="text-emerald-500 text-2xl mb-2 font-extrabold font-serif">Youtube Marketing</h3>
                     <p className="text-xs md:text-base text-gray-300">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium rem dolores tempore reprehenderit quas cum ea omnis quis ab assumenda, molestias consequatur enim dolor corporis. Quaerat beatae id ratione dolore officiis tempore soluta dicta distinctio expedita autem, earum corporis praesentium eum rerum debitis impedit nisi unde hic amet animi fugiat dolorem magnam. Illum laudantium deleniti ex similique corporis tempore enim? Repudiandae natus, ea mollitia reprehenderit alias vel provident aperiam laborum officia eaque doloribus aspernatur quo distinctio laudantium. Voluptate, voluptatum corrupti.</p>
-                    <Link to="/facebookPreWork">
+                    <Link to="/youtubePreWork">
                         <button className="bg-emerald-400 mb-4 font-extrabold text-white py-2 px-6 rounded-full hover:bg-amber-600 focus:outline-none mt-4">
                             Previous work
                         </button>
