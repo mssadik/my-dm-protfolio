@@ -6,7 +6,7 @@ const Banner = () => {
       <div className="container px-8 mx-auto flex flex-col lg:flex-row lg:mt-10 justify-center ">
         {/* First column (text) */}
         <div className="lg:w-2/5 lg:pr-8 mb-8 lg:mt-5  ">
-          <h2 className="text-2xl  lg:text-4xl font-bold text-slate-300 mb-4">
+          <h2 className="text-2xl font-serif  lg:text-4xl font-bold text-slate-300 mb-4">
             Elevate Your <span className="text-green-600 font-extrabold">Brand</span> with <span className="text-green-600 font-extrabold">Expert</span> Social Media Mastery
           </h2>
           <p className="text-xs md:text-base text-gray-300 mb-6">
@@ -38,7 +38,7 @@ const Banner = () => {
         </div>
 
         {/* Third column (large image) */}
-        <div className="lg:w-2/5 ">
+        <div className="lg:w-2/5 flex items-center justify-center">
           <img
             src="https://i.ibb.co/k2GTM6y/pic-removebg-preview.png"
             alt="Large Image Alt Text"

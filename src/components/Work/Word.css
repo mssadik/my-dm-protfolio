@@ -1,0 +1,22 @@
+/* Work.css */
+.image-container {
+    position: relative;
+    overflow: hidden;
+}
+
+.animated-image {
+    width: 100%;
+    transition: transform 0.5s ease-in-out;
+}
+
+.animated-image:hover {
+    transform: scale(1.1);
+}
+
+.animated-button {
+    transition: background-color 0.3s ease-in-out;
+}
+
+.animated-button:hover {
+    background-color: #ffbf00; /* Change to your desired gradient or color */
+}

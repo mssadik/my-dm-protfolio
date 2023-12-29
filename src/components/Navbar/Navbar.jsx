@@ -54,7 +54,7 @@ const Navbar = () => {
 
         <div className={`lg:flex ${isMenuOpen ? '' : 'hidden'}`}>
           <a
-            href="#home"
+            href="/"
             className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-emerald-500 mr-4"
           >
             Home

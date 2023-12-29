@@ -3,6 +3,7 @@ import {
   } from "react-router-dom";
 import Main from "../Layout/Main";
 import Home from "../components/Home/Home";
+import FacebookPreWork from "../components/PreviousWork/FacebookPreWork";
 
  export const router = createBrowserRouter([
     {
@@ -12,6 +13,10 @@ import Home from "../components/Home/Home";
         {
             path: "/",
             element: <Home></Home>
+        },
+        {
+          path: "/facebookPreWork",
+          element: <FacebookPreWork></FacebookPreWork>
         }
       ]
     },

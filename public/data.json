@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Facebook Marketing",
+      "img": "https://i.ibb.co/bmJxvXP/download-2-removebg-preview.png",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor ut arcu pretium viverra. Integer nec metus eu mauris bibendum vehicula."
+    },
+    {
+      "id": 2,
+      "name": "Instagram Marketing",
+      "img": "https://i.ibb.co/r4RfWGV/download-4-removebg-preview.png",
+      "text": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis venenatis, dolor sit amet cursus vulputate, libero justo volutpat arcu, vitae fermentum odio justo ac ipsum."
+    },
+    {
+      "id": 3,
+      "name": "Youtube Marketing",
+      "img": "https://i.ibb.co/YWWnWfK/download-3-removebg-preview-2.png",
+      "text": "Fusce euismod varius mi, nec euismod lacus. Vivamus facilisis quam at nisl dignissim, non hendrerit ex rhoncus. Nullam vel ex vitae nisi vulputate sollicitudin."
+    },
+    {
+      "id": 4,
+      "name": "Facebook Marketing",
+      "img": "https://i.ibb.co/bmJxvXP/download-2-removebg-preview.png",
+      "text": "Aenean in massa sit amet justo mollis vestibulum. Proin cursus urna vitae libero tristique, id fermentum elit scelerisque. Nam auctor eros vel urna hendrerit, et bibendum elit dapibus."
+    },
+    {
+      "id": 5,
+      "name": "Instagram Marketing",
+      "img": "https://example.com/instagram-marketing-image.jpg",
+      "text": "Suspendisse potenti. Vivamus congue tellus at erat varius, vel fermentum lacus congue. Ut hendrerit erat ac enim rhoncus ultrices."
+    },
+    {
+      "id": 6,
+      "name": "Youtube Marketing",
+      "img": "https://example.com/youtube-marketing-image.jpg",
+      "text": "Curabitur sit amet accumsan elit. Sed scelerisque, ipsum at consequat bibendum, libero neque interdum mi, at consequat nibh libero at justo."
+    },
+    {
+      "id": 7,
+      "name": "Facebook Marketing",
+      "img": "https://i.ibb.co/bmJxvXP/download-2-removebg-preview.png",
+      "text": "Duis auctor nibh nec magna finibus, vel tristique dolor consequat. Integer sit amet consectetur elit. In ac urna vel odio accumsan feugiat eu ut lacus."
+    },
+    {
+      "id": 8,
+      "name": "Instagram Marketing",
+      "img": "https://example.com/instagram-marketing-2-image.jpg",
+      "text": "Sed dapibus, tortor non ornare consectetur, mauris turpis congue nibh, vel fringilla purus metus vel turpis. Quisque sodales euismod nunc a bibendum."
+    },
+    {
+      "id": 9,
+      "name": "Youtube Marketing",
+      "img": "https://example.com/youtube-marketing-2-image.jpg",
+      "text": "Maecenas ut justo eu tellus dignissim fermentum. Quisque interdum, ex in fermentum lacinia, velit arcu scelerisque elit, ut aliquet ligula dui et tortor."
+    },
+    {
+      "id": 10,
+      "name": "Facebook Marketing",
+      "img": "https://i.ibb.co/bmJxvXP/download-2-removebg-preview.png",
+      "text": "Integer nec metus eu mauris bibendum vehicula. Sed quis tortor ut arcu pretium viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
+  ]
+  

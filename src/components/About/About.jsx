@@ -2,7 +2,7 @@ const About = () => {
     return (
         <section id='about' className="bg-black">
             <h2 className="text-white text-4xl mb-5 font-serif font-extrabold text-center">About Me</h2>
-            <div className="flex flex-col-reverse md:flex-row lg:flex-row md:mx-20 lg:pb-5 px-8 md:px-4">
+            <div className="flex border-2 flex-col-reverse md:flex-row lg:flex-row md:mx-20  px-8 lg:pb-5 md:px-4">
                 <div className="md:w-3/6">
                     <h2 className="text-2xl font-bold mb-2 hidden md:block text-emerald-500">Strategist of Social Impact: Elevating Businesses through Facebook, Instagram, and YouTube Mastery.</h2>
                     <h2 className="text-1xl font-bold mb-2 block md:hidden  text-emerald-500">Social Media Maven: Boosting Brands with Expertise in Facebook, Instagram, and YouTube.</h2>
