@@ -1,8 +1,15 @@
+
+
+
 // Navbar.jsx
-import  { useState } from 'react';
+import { useState } from 'react';
+import { useLocation } from 'react-router-dom';
 
 const Navbar = () => {
   const [isMenuOpen, setMenuOpen] = useState(false);
+  const location = useLocation().pathname === "/facebookPreWork";
+  console.log(location);
+  
 
   const toggleMenu = () => {
     setMenuOpen(!isMenuOpen);
@@ -61,10 +68,11 @@ const Navbar = () => {
           </a>
           <a
             href="#about"
-            className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-emerald-500 mr-4"
+            className={`block mt-4 lg:inline-block lg:mt-0 text-white hover:text-emerald-500 mr-4 ${location ? 'hidden' : ''}`}
           >
             About
           </a>
+
           <a
             href="#pre"
             className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-emerald-500"
@@ -73,7 +81,7 @@ const Navbar = () => {
           </a>
           <a
             href="#contact"
-            className="block mt-4 lg:inline-block lg:mt-0 lg:ml-2 text-white hover:text-emerald-500 mr-4"
+            className={`block mt-4 ml-4 lg:inline-block lg:mt-0 text-white hover:text-emerald-500 mr-4 ${location ? 'hidden' : ''}`}
           >
             Contact
           </a>
