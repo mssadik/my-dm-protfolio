@@ -7,7 +7,9 @@ import { useLocation } from 'react-router-dom';
 
 const Navbar = () => {
   const [isMenuOpen, setMenuOpen] = useState(false);
-  const location = useLocation().pathname === "/facebookPreWork";
+  const facebook = useLocation().pathname === "/facebookPreWork";
+  const instagram = useLocation().pathname === "/instaPreWork";
+  const youtube = useLocation().pathname === "/youtubePreWork";
   console.log(location);
   
 
@@ -68,7 +70,7 @@ const Navbar = () => {
           </a>
           <a
             href="#about"
-            className={`block mt-4 lg:inline-block lg:mt-0 text-white hover:text-emerald-500 mr-4 ${location ? 'hidden lg:hidden' : ''}`}
+            className={`block mt-4 lg:inline-block lg:mt-0 text-white hover:text-emerald-500 mr-4 ${facebook || instagram || youtube  ? 'hidden lg:hidden' : ''}`}
           >
             About
           </a>
