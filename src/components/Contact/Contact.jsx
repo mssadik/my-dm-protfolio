@@ -26,7 +26,7 @@ const Contact = () => {
   return (
     <section id="contact" className="bg-black">
       <h2 className="font-extrabold font-serif text-slate-200 text-3xl text-center">Get in touch</h2>
-      <div className="mx-4 md:mx-20 p-4 md:p-8">
+      <div className="mx-4 md:mx-20 md:pb-20 p-4 md:p-8">
         <div className="flex flex-col justify-center items-center gap-10 md:flex-row">
           {/* Left side: Image */}
           <div className="md:w-1/2 mb-0 md:mb-0">

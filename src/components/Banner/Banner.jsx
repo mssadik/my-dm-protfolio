@@ -1,6 +1,6 @@
 
 
-const BannerSection = () => {
+const Banner = () => {
   return (
     <section id="home" className="bg-black  py-16 lg:px-20 lg:py-24">
       <div className="container px-8 mx-auto flex flex-col lg:flex-row lg:mt-10 justify-center ">
@@ -51,4 +51,4 @@ const BannerSection = () => {
   );
 };
 
-export default BannerSection;
+export default Banner;
