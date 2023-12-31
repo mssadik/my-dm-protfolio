@@ -52,14 +52,14 @@ const FacebookPreWork = () => {
                 alt={item.name}
                 className={`facebook-prework-image ${selectedImage === item.img ? 'hovered' : ''}`}
               />
-              <h3 className="text-emerald-500 text-2xl mb-2 font-extrabold font-serif">{item.name}</h3>
+              <h3 className="text-emerald-500 text-1xl mb-2 font-extrabold font-serif">{item.title}</h3>
               {selectedImage === item.img && (
                 <div className="image-overlay">
-                  <p className="image-name">{item.name}</p>
+                  {/* <p className="image-name">{item.name}</p> */}
                 </div>
               )}
             </div>
-            <p className="text-xs md:text-base text-gray-300">{item.text}</p>
+            {/* <p className="text-xs md:text-base text-gray-300">{item.text}</p> */}
           </div>
         ))}
 

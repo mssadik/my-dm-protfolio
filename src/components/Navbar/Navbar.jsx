@@ -3,7 +3,7 @@
 
 // Navbar.jsx
 import { useState } from 'react';
-import { useLocation } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 
 const Navbar = () => {
   const [isMenuOpen, setMenuOpen] = useState(false);
@@ -20,7 +20,7 @@ const Navbar = () => {
   return (
     <nav className="bg-gray-800 p-4 ">
       <div className="container mx-auto lg:px-20 flex justify-between items-center">
-        <div className="text-white text-xl font-bold"><img className='w-60 h-auto' src="https://i.ibb.co/qxdkc9V/Capture-removebg-preview-1.png" alt="" /></div>
+        <div className="text-white text-xl font-bold"><Link to="/"><img className='w-60 h-auto' src="https://i.ibb.co/qxdkc9V/Capture-removebg-preview-1.png" alt="" /></Link></div>
         <div className="lg:hidden">
           <button
             onClick={toggleMenu}
@@ -83,7 +83,7 @@ const Navbar = () => {
           </a>
           <a
             href="#contact"
-            className={`block mt-4 md:ml-4 lg:inline-block lg:mt-0 text-white hover:text-emerald-500 mr-4 ${location ? 'hidden lg:hidden' : ''}`}
+            className={`block mt-4 md:ml-4 lg:inline-block lg:mt-0 text-white hover:text-emerald-500 mr-4 ${facebook || instagram || youtube ? 'hidden lg:hidden' : ''}`}
           >
             Contact
           </a>
