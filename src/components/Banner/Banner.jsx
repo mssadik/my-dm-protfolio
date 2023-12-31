@@ -10,7 +10,8 @@ const Banner = () => {
             Elevate Your <span className="text-green-600 font-extrabold">Brand</span> with <span className="text-green-600 font-extrabold">Expert</span> Social Media Mastery
           </h2>
           <p className="text-xs md:text-base text-gray-300 mb-6">
-            Crafting success in the digital realm! I specialize in Facebook, Instagram, and YouTube marketing, ensuring your brand stands out. From strategic ads to SEO mastery, I&apos;m your go-to for unlocking online potential. Let&apos;s elevate your social media presence and drive results together!
+            Crafting success in the digital realm! I specialize in Facebook, Instagram, and YouTube marketing, ensuring your brand stands out. From strategic ads to SEO mastery, I&apos;m your go-to for unlocking online potential. Let&apos;s elevate your social media presence and drive results together!  So why are you waiting for let&apos;s have a meeting and discuss your project<br /> Open the agency YouTube channel and LinkedIn account below.
+
           </p>
           <div className="flex gap-2 mb-4 ml-0 items-center">
             <a href="https://www.linkedin.com/in/sadikul-islam-6b2827278/" className="hover:text-blue-500">
