@@ -33,6 +33,7 @@ const Work = () => {
                     <p className="text-emerald-300 mt-3 text-xs md:text-sm">1. Targeted followers </p>
                     <p className="text-emerald-300 text-xs md:text-sm">2. Increase engagement</p>
                     <p className="text-emerald-300 text-xs md:text-sm">3. 100% manual growth</p>
+                    <p className="text-emerald-300 text-xs md:text-sm">4. Instagram influencer research</p>
                     <Link to="">
                         <button className="bg-emerald-400 mb-4 font-extrabold text-white py-2 px-6 rounded-full hover:bg-amber-600 focus:outline-none mt-4">
                             Previous work

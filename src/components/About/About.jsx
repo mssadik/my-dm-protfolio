@@ -19,7 +19,7 @@ const About = () => {
                         <iframe
                             style={{ width: '100%', maxWidth: '560px', height: '315px' }}
                             className="w-full h-full"
-                            src="https://www.youtube.com/embed/FAq3HlR4c5I?si=a52XkN4XvrLRuom2"
+                            src="https://www.youtube.com/emed/FAq3HlR4c5I?si=a52XkN4XvrLRuom2"
                             title="YouTube Video"
                             allowFullScreen
                         ></iframe>
@@ -30,7 +30,7 @@ const About = () => {
                             className={{}}
                             width="560"
                             height="315"
-                            src="https://www.youtube.com/embed/ZZJdSrL4hQQ?si=2f-DVvMC2RN8FZVc"
+                            src="https://www.youtube.com/embd/ZZJdSrL4hQQ?si=2f-DVvMC2RN8FZVc"
                             title="YouTube Video"
                             allowfullscreen
                         ></iframe>

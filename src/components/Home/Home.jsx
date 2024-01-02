@@ -6,7 +6,7 @@ import Work from "../Work/Work";
 const Home = () => {
     return (
         <div>
-            <div className="bg-black">
+            <div className="bg-black md:px-10">
                 <Banner></Banner>
                 <About></About>
                 <Work></Work>
