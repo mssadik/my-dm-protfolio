@@ -5,7 +5,7 @@ const Banner = () => {
     <section id="home" className="bg-black  py-16 lg:px-20 lg:py-24">
       <div className="container px-8 mx-auto flex flex-col lg:flex-row lg:mt-10 justify-center ">
         {/* First column (text) */}
-        <div className="lg:w-2/5 lg:pr-8 mb-8 lg:mt-5  ">
+        <div className="lg:w-3/6 lg:pr-8 mb-8 lg:mt-5  ">
           <h2 className="text-2xl font-serif  lg:text-4xl font-bold text-slate-300 mb-4">
             Elevate Your <span className="text-green-600 font-extrabold">Brand</span> with <span className="text-green-600 font-extrabold">Expert</span> Social Media Mastery
           </h2>
@@ -28,33 +28,35 @@ const Banner = () => {
         </div>
 
         {/* Second column (small image) */}
-        <div className="lg:w-1/5 hidden md:block lg:pr-8  lg:ml-14  mb-8 lg:mt-10">
+        <div className="lg:w-1/6 hidden md:block lg:pr-8  lg:ml-14  mb-8 lg:mt-10">
           <img
             src="
             https://i.ibb.co/4YCjy7G/download-6.jpg"
             alt="Small Image Alt Text"
-            className="md:w-24 h-auto rounded-lg mb-4"
+            className="md:w-24 h-auto rounded-lg mb-4 transition-transform transform hover:scale-110"
           />
-           <img
+            
+
+          <img
             src="https://i.ibb.co/Bn8sWGP/download-8.jpg"
             alt="Small Image Alt Text"
-            className="md:w-24  h-auto rounded-lg mb-4"
+            className="md:w-24 h-auto rounded-lg mb-4 transition-transform transform hover:scale-110"
           />
-           <img
+          <img
             src="https://i.ibb.co/bFnHtp9/download-7.jpg"
             alt="Small Image Alt Text"
-            className="md:w-24  h-auto rounded-lg mb-4"
+            className="md:w-24 h-auto rounded-lg mb-4 transition-transform transform hover:scale-110"
           />
-           <img
+          <img
             src="https://i.ibb.co/4PTd8CZ/download-5.jpg"
             alt="Small Image Alt Text"
-            className="md:w-24  h-auto rounded-lg mb-4"
+            className="md:w-24 h-auto rounded-lg mb-4 transition-transform transform hover:scale-110"
           />
-         
+
         </div>
 
         {/* Third column (large image) */}
-        <div className="lg:w-2/5 flex items-center justify-center">
+        <div className="lg:w-2/6 flex items-center justify-center">
           <img
             src="https://i.ibb.co/k2GTM6y/pic-removebg-preview.png"
             alt="Large Image Alt Text"
