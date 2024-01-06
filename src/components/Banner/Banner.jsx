@@ -31,20 +31,26 @@ const Banner = () => {
         <div className="lg:w-1/5 hidden md:block lg:pr-8  lg:ml-14  mb-8 lg:mt-10">
           <img
             src="
-            https://i.ibb.co/bmJxvXP/download-2-removebg-preview.png"
+            https://i.ibb.co/4YCjy7G/download-6.jpg"
             alt="Small Image Alt Text"
-            className="md:w-44 bg-emerald-500 h-auto rounded-lg"
+            className="md:w-24 h-auto rounded-lg mb-4"
           />
-          <img
-            src="https://i.ibb.co/r4RfWGV/download-4-removebg-preview.png"
+           <img
+            src="https://i.ibb.co/Bn8sWGP/download-8.jpg"
             alt="Small Image Alt Text"
-            className="md:w-44 md:my-4 bg-emerald-500 h-auto rounded-lg"
+            className="md:w-24  h-auto rounded-lg mb-4"
           />
-          <img
-            src="https://i.ibb.co/YWWnWfK/download-3-removebg-preview-2.png"
+           <img
+            src="https://i.ibb.co/bFnHtp9/download-7.jpg"
             alt="Small Image Alt Text"
-            className="md:w-44 bg-emerald-500 h-auto rounded-lg"
+            className="md:w-24  h-auto rounded-lg mb-4"
           />
+           <img
+            src="https://i.ibb.co/4PTd8CZ/download-5.jpg"
+            alt="Small Image Alt Text"
+            className="md:w-24  h-auto rounded-lg mb-4"
+          />
+         
         </div>
 
         {/* Third column (large image) */}
