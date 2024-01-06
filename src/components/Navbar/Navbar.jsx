@@ -10,6 +10,7 @@ const Navbar = () => {
   const facebook = useLocation().pathname === "/facebookPreWork";
   const instagram = useLocation().pathname === "/instaPreWork";
   const youtube = useLocation().pathname === "/youtubePreWork";
+  const canva = useLocation().pathname === "/canvaPreWork";
   console.log(location);
   
 
@@ -70,7 +71,7 @@ const Navbar = () => {
           </a>
           <a
             href="#about"
-            className={`block mt-4 lg:inline-block lg:mt-0 text-white hover:text-emerald-500 mr-4 ${facebook || instagram || youtube  ? 'hidden lg:hidden' : ''}`}
+            className={`block mt-4 lg:inline-block lg:mt-0 text-white hover:text-emerald-500 mr-4 ${facebook || instagram || canva || youtube  ? 'hidden lg:hidden' : ''}`}
           >
             About
           </a>
@@ -83,7 +84,7 @@ const Navbar = () => {
           </a>
           <a
             href="#contact"
-            className={`block mt-4 md:ml-4 lg:inline-block lg:mt-0 text-white hover:text-emerald-500 mr-4 ${facebook || instagram || youtube ? 'hidden lg:hidden' : ''}`}
+            className={`block mt-4 md:ml-4 lg:inline-block lg:mt-0 text-white hover:text-emerald-500 mr-4 ${facebook || instagram || canva || youtube ? 'hidden lg:hidden' : ''}`}
           >
             Contact
           </a>

@@ -4,7 +4,7 @@ const Work = () => {
     return (
         <section id="pre" className="bg-black py-16">
             <h2 className="text-3xl md:text-4xl text-white text-center pt-10  md:pt-20 mb-10 md:pb-18 font-serif font-extrabold ">What I DO</h2>
-            <div className="flex gap-5 flex-col md:flex-row mx-0 md:mx-24 items-center justify-center mb-10  md:hover:p-1  hover:bg-slate-900">
+            <div className="flex gap-5 flex-col pt-5 md:pt-0 md:flex-row mx-0 md:mx-24 items-center justify-center mb-10  md:hover:p-1  hover:bg-slate-900">
                 <div className="w-1/4 ">
                     <img className="w-full rounded-md" src="https://i.ibb.co/pz7SHvg/Untitled-design-2.png" alt="" />
                 </div>
@@ -26,10 +26,8 @@ const Work = () => {
                     </Link>
                 </div>
             </div>
-            <div className="flex gap-5 flex-col md:flex-row mx-0 md:mx-24 items-center justify-center mb-10  md:hover:p-1 hover:bg-slate-900">
-                <div className="w-1/4 ">
-                    <img className="w-full rounded-md" src="https://i.ibb.co/Bn8sWGP/download-8.jpg" alt="" />
-                </div>
+            <div className="flex gap-5 flex-col-reverse pt-5 md:pt-0 md:flex-row mx-0 md:mx-24 items-center justify-center mb-10  md:hover:p-1 hover:bg-slate-900">
+                
                 <div className="w-3/4">
                     <h3 className="text-emerald-500 text-center md:text-left text-1xl md:text-2xl mb-2 font-extrabold font-serif">Facebook Marketing</h3>
                     <p className="text-xs md:text-base text-gray-300">I will help you to grow your business with 3 years of experience,
@@ -47,8 +45,11 @@ const Work = () => {
                         </button>
                     </Link>
                 </div>
+                <div className="w-1/4 ">
+                    <img className="w-full rounded-md" src="https://i.ibb.co/Bn8sWGP/download-8.jpg" alt="" />
+                </div>
             </div>
-            <div className="flex gap-5 flex-col md:flex-row mx-0 md:mx-24 items-center justify-center mb-10  md:hover:p-1 hover:bg-slate-900">
+            <div className="flex gap-5 flex-col pt-5 md:pt-0 md:flex-row mx-0 md:mx-24 items-center justify-center mb-10  md:hover:p-1 hover:bg-slate-900">
                 <div className="w-1/4">
                     <img className="w-full rounded-md" src="https://i.ibb.co/4YCjy7G/download-6.jpg" alt="" />
                 </div>
@@ -65,10 +66,8 @@ const Work = () => {
                     </Link>
                 </div>
             </div>
-            <div className="flex gap-5 flex-col md:flex-row mx-0 md:mx-24 items-center justify-center mb-10  md:hover:p-1 hover:bg-slate-900">
-                <div className="w-1/4">
-                    <img className="w-full rounded-md" src="https://i.ibb.co/bFnHtp9/download-7.jpg" alt="" />
-                </div>
+            <div className="flex gap-5 flex-col-reverse pt-5 md:pt-0 md:flex-row mx-0 md:mx-24 items-center justify-center mb-10  md:hover:p-1 hover:bg-slate-900">
+                
                 <div className="w-3/4">
                     <h3 className="text-emerald-500 text-center md:text-left text-1xl md:text-2xl mb-2 font-extrabold font-serif">Instagram Marketing</h3>
                     <p className="text-xs md:text-base text-gray-300">Ignite your brand&apos;s presence on Instagram with expert marketing by me. Through strategic content creation, targeted audience growth, and innovative campaigns, I'll transform your Instagram into a captivating visual journey. Engage authentically, build a loyal community, and gain insights with data-driven analytics. Let&apos;s go beyond likes and followers—let&apos;s create meaningful connections. Elevate your digital presence effortlessly with me</p>
@@ -82,8 +81,11 @@ const Work = () => {
                         </button>
                     </Link>
                 </div>
+                <div className="w-1/4">
+                    <img className="w-full rounded-md" src="https://i.ibb.co/bFnHtp9/download-7.jpg" alt="" />
+                </div>
             </div>
-            <div className="flex gap-5 flex-col md:flex-row mx-0 md:mx-24 items-center justify-center mb-10  md:hover:p-2 hover:bg-slate-900">
+            <div className="flex gap-5 flex-col pt-5 md:pt-0 md:flex-row mx-0 md:mx-24 items-center justify-center mb-10  md:hover:p-2 hover:bg-slate-900">
                 <div className="w-1/4">
                     <img className="w-full rounded-md" src="https://i.ibb.co/4PTd8CZ/download-5.jpg" alt="" />
                 </div>
