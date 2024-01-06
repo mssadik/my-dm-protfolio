@@ -35,7 +35,11 @@ const Banner = () => {
             alt="Small Image Alt Text"
             className="md:w-24 h-auto rounded-lg mb-4 transition-transform transform hover:scale-110"
           />
-            
+            <img
+            src="https://i.ibb.co/4PTd8CZ/download-5.jpg"
+            alt="Small Image Alt Text"
+            className="md:w-24 h-auto rounded-lg mb-4 transition-transform transform hover:scale-110"
+          />
 
           <img
             src="https://i.ibb.co/Bn8sWGP/download-8.jpg"
@@ -48,7 +52,7 @@ const Banner = () => {
             className="md:w-24 h-auto rounded-lg mb-4 transition-transform transform hover:scale-110"
           />
           <img
-            src="https://i.ibb.co/4PTd8CZ/download-5.jpg"
+            src="https://i.ibb.co/pz7SHvg/Untitled-design-2.png"
             alt="Small Image Alt Text"
             className="md:w-24 h-auto rounded-lg mb-4 transition-transform transform hover:scale-110"
           />
@@ -60,7 +64,7 @@ const Banner = () => {
           <img
             src="https://i.ibb.co/k2GTM6y/pic-removebg-preview.png"
             alt="Large Image Alt Text"
-            className="w-5/6 h-full rounded-full"
+            className="w-full h-full rounded-full"
           />
         </div>
       </div>
