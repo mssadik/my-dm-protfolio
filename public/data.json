@@ -2,6 +2,13 @@
     {
       "id": 1,
       "name": "Facebook Marketing",
+      "title": "A sales campaign result",
+      "img": "https://i.ibb.co/FHWWTzS/418467433-122120104886126716-2294190223355407197-n.jpg",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor ut arcu pretium viverra. Integer nec metus eu mauris bibendum vehicula."
+    },
+    {
+      "id": 1,
+      "name": "Facebook Marketing",
       "title": "FB Ads marketing for real estate company",
       "img": "https://i.ibb.co/Vxn8RD1/Facebook-Ads-marketing-for-real-estate-company.png",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor ut arcu pretium viverra. Integer nec metus eu mauris bibendum vehicula."
@@ -194,6 +201,13 @@
       "name": "Canva Design",
       "title": "Instagram food post design",
       "img": "https://i.ibb.co/2MbMxPq/C-1.png",
+      "text": "Integer nec metus eu mauris bibendum vehicula. Sed quis tortor ut arcu pretium viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": 12,
+      "name": "Canva Design",
+      "title": "Instagram T-shirt post design",
+      "img": "https://i.ibb.co/p1KJCN9/Add-a-subheading.png",
       "text": "Integer nec metus eu mauris bibendum vehicula. Sed quis tortor ut arcu pretium viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     }
   ]
