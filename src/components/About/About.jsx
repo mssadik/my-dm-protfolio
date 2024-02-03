@@ -8,7 +8,7 @@ const About = () => {
                     <h2 className="text-1xl font-bold mb-2 block md:hidden  text-emerald-500">Strategist of Social Impact: Elevating Businesses through Social Media Canva product design Mastery.</h2>
                     <p className="mb-4 text-slate-300 text-xs md:text-sm "> As a seasoned social media expert, I specialize in elevating brands through targeted Facebook and Instagram ads, strategic marketing campaigns, and comprehensive YouTube Twitter, and product design services with 3 years of experience. My proficiency extends from crafting compelling ad strategies that drive engagement and conversions to implementing SEO techniques for enhanced video discoverability. With a focus on YouTube channel monetization, I guide creators towards sustainable success. My portfolio reflects a proven track record of optimizing online presence, fostering audience growth, and maximizing revenue streams. Let&apos;s collaborate to amplify your social media impact and achieve unparalleled success in the digital landscape. </p>
                     <a href="#contact"><button className="bg-emerald-400 font-extrabold text-white py-2 px-6 rounded-full hover:bg-amber-600 focus:outline-none">
-                        Contact me
+                        Contact me in fiverr
                     </button></a>
                 </div>
                 <div className="mb-4 flex items-center justify-center md:w-3/6 md:mr-4 lg:mr-4 md:mb-0 lg:mb-0">

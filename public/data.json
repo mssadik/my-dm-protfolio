@@ -196,18 +196,48 @@
       "img": "https://i.ibb.co/phwyQQQ/Add-a-heading.png",
       "text": "Integer nec metus eu mauris bibendum vehicula. Sed quis tortor ut arcu pretium viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
+    
     {
       "id": 12,
       "name": "Canva Design",
-      "title": "Instagram food post design",
-      "img": "https://i.ibb.co/2MbMxPq/C-1.png",
+      "title": "Gaming YouTube thumbnail design ",
+      "img": "https://i.ibb.co/sRjTQJ9/Battlefield-Blitz-Dominate-in-PUBG-1.png",
       "text": "Integer nec metus eu mauris bibendum vehicula. Sed quis tortor ut arcu pretium viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
       "id": 12,
       "name": "Canva Design",
-      "title": "Instagram T-shirt post design",
-      "img": "https://i.ibb.co/p1KJCN9/Add-a-subheading.png",
+      "title": "YouTube thumbnail design for vlog ",
+      "img": "https://i.ibb.co/wcvkc3g/Add-a-heading.png",
+      "text": "Integer nec metus eu mauris bibendum vehicula. Sed quis tortor ut arcu pretium viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": 12,
+      "name": "Canva Design",
+      "title": "Food vlog thumbnail",
+      "img": "https://i.ibb.co/b2HfhZj/Battlefield-Blitz-Dominate-in-PUBG-2.png",
+      "text": "Integer nec metus eu mauris bibendum vehicula. Sed quis tortor ut arcu pretium viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    
+    {
+      "id": 14,
+      "name": "Canva Design",
+      "title": "Facebook post design for ads",
+      "img": "https://i.ibb.co/z2VKjZq/Add-a-subheading-1.png",
+      "text": "Integer nec metus eu mauris bibendum vehicula. Sed quis tortor ut arcu pretium viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": 14,
+      "name": "Canva Design",
+      "title": "Facebook post design for ads",
+      "img": "https://i.ibb.co/71HMws3/Burger.png",
+      "text": "Integer nec metus eu mauris bibendum vehicula. Sed quis tortor ut arcu pretium viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": 13,
+      "name": "Canva Design",
+      "title": "Instagram food post design",
+      "img": "https://i.ibb.co/2MbMxPq/C-1.png",
       "text": "Integer nec metus eu mauris bibendum vehicula. Sed quis tortor ut arcu pretium viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     }
   ]

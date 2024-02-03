@@ -82,12 +82,12 @@ const Navbar = () => {
           >
             Previous_Work
           </a>
-          <a
+          {/* <a
             href="#contact"
             className={`block mt-4 md:ml-4 lg:inline-block lg:mt-0 text-white hover:text-emerald-500 mr-4 ${facebook || instagram || canva || youtube ? 'hidden lg:hidden' : ''}`}
           >
             Contact
-          </a>
+          </a> */}
         </div>
       </div>
     </nav>
