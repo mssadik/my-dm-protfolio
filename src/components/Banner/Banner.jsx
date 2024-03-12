@@ -9,21 +9,25 @@ const Banner = () => {
           <h2 className="text-2xl font-serif  lg:text-4xl font-bold text-slate-300 mb-4">
             Elevate Your <span className="text-green-600 font-extrabold">Brand</span> with <span className="text-green-600 font-extrabold">Expert</span> Social Media Mastery
           </h2>
-          <p className="text-xs md:text-base text-gray-300 mb-6"> Crafting success in the digital realm! I specialize in Facebook, Instagram, Twitter,  YouTube, and product design as well, as marketing, ensuring your brand stands out. From strategic ads to SEO mastery, I&apos;m your go-to for unlocking online potential. Let&apos;s elevate your social media presence and drive results together! So, why are you waiting? Let&apos;s have a meeting and discuss your project.
-            Open the agency&apos;s YouTube channel and my LinkedIn account below. </p>
-          <div className="flex gap-2 mb-4 ml-0 items-center">
-            <a href="https://www.linkedin.com/in/sadikul-islam-6b2827278/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500">
-              <img className="rounded-lg w-6 transition duration-300 ease-in-out transform hover:scale-110" src="https://i.ibb.co/ZNVDr1g/download-4.png" alt="" />
-            </a>
-            <a href="https://www.youtube.com/watch?v=OMVvjdxDvmA&list=PLFdvf8urHOpG-oyyXWfNoNXxPbF-7tQjj" target="_blank" rel="noopener noreferrer" className="hover:text-green-500">
-              <img className="rounded-lg w-10 h-auto transition duration-300 ease-in-out transform hover:scale-110" src="https://i.ibb.co/wr380Tp/download-5-removebg-preview.png" alt="" />
-            </a>
+          <p className="text-xs md:text-base text-gray-300 mb-6">
+            Crafting digital success is my passion! With a focus on Facebook, YouTube, and product design, alongside marketing expertise, I&lsquo;m dedicated to making your brand shine in the online sphere. From crafting strategic ads to mastering SEO, I&lsquo;m your trusted partner in unlocking your brand&lsquo;s full potential. Let&lsquo;s not just boost your social media presence; let&lsquo;s drive tangible results together! Don&lsquo;t wait any longer—let&lsquo;s schedule a meeting to discuss your project. Feel free to explore our agency&lsquo;s YouTube channel and connect with me on LinkedIn or WhatsApp below. </p>
+          <div className="flex gap-5">
+            <a href="#contact"><button className="bg-emerald-400 font-extrabold text-white py-2 px-6 rounded-full hover:bg-amber-600 focus:outline-none">
+              Hire me
+            </button></a>
+
+            <div className="flex gap-2 mb-4 ml-0 items-center">
+              <a href="https://www.linkedin.com/in/sadikul-islam-6b2827278/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500">
+                <img className="rounded-lg w-8 transition duration-300 ease-in-out transform hover:scale-110" src="https://i.ibb.co/ZNVDr1g/download-4.png" alt="" />
+              </a>
+              <a href="https://wa.link/4zwe0h" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500">
+                <img className="rounded-lg w-12 transition duration-300 ease-in-out transform hover:scale-110" src="https://i.ibb.co/ZKMn0d2/sm-5b321c99945a2-removebg-preview.png" alt="" />
+              </a>
+              <a href="https://www.youtube.com/watch?v=OMVvjdxDvmA&list=PLFdvf8urHOpG-oyyXWfNoNXxPbF-7tQjj" target="_blank" rel="noopener noreferrer" className="hover:text-green-500">
+                <img className="rounded-lg w-12 h-auto transition duration-300 ease-in-out transform hover:scale-110" src="https://i.ibb.co/wr380Tp/download-5-removebg-preview.png" alt="" />
+              </a>
+            </div>
           </div>
-
-
-          <a href="#contact"><button className="bg-emerald-400 font-extrabold text-white py-2 px-6 rounded-full hover:bg-amber-600 focus:outline-none">
-            Hire me 
-          </button></a>
         </div>
 
         {/* Second column (small image) */}
@@ -34,22 +38,14 @@ const Banner = () => {
             alt="Small Image Alt Text"
             className="md:w-24 h-auto rounded-lg mb-4 transition-transform transform hover:scale-110"
           />
-          <img
-            src="https://i.ibb.co/4PTd8CZ/download-5.jpg"
-            alt="Small Image Alt Text"
-            className="md:w-24 h-auto rounded-lg mb-4 transition-transform transform hover:scale-110"
-          />
+
 
           <img
             src="https://i.ibb.co/Bn8sWGP/download-8.jpg"
             alt="Small Image Alt Text"
             className="md:w-24 h-auto rounded-lg mb-4 transition-transform transform hover:scale-110"
           />
-          <img
-            src="https://i.ibb.co/bFnHtp9/download-7.jpg"
-            alt="Small Image Alt Text"
-            className="md:w-24 h-auto rounded-lg mb-4 transition-transform transform hover:scale-110"
-          />
+
           <img
             src="https://i.ibb.co/pz7SHvg/Untitled-design-2.png"
             alt="Small Image Alt Text"
