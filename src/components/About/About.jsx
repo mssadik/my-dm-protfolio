@@ -27,7 +27,7 @@ const About = () => {
                             className={{}}
                             width="560"
                             height="315"
-                            src="https://www.youtube.com/embd/ZZJdSrL4hQQ?si=2f-DVvMC2RN8FZVc"
+                            src="https://www.youtube.com/embed/f4yjNY78JLo?si=odyQoXxCrDzdDuEv"
                             title="YouTube Video"
                             allowfullscreen
                         ></iframe>
